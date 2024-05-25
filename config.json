@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "KartikDambare",
+      "password": "Kartik@2024",
+      "database": "weatherdb",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "body-parser": "^1.19.0",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "nodemailer": "^6.4.17",
+      "pg": "^8.5.1",
+      "pg-hstore": "^2.3.3",
+      "sequelize": "^6.3.5"
+    }
+  }
+  
